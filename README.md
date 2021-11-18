@@ -29,3 +29,6 @@
 
 ## Jetstream 
 - https://jetstream.laravel.com/2.x/installation.html
+
+## Git Bash Checkout
+- git checkout -b <new_branch>
