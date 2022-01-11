@@ -1,4 +1,4 @@
 👋 Hi, I’m @crinchy
 
-# Stacks
-- Laravel
+💻 I'm using...
+   - HTML, CSS, SASS, PHP, Laravel, Jetstream/Livewire, WordPress
