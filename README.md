@@ -1,4 +1,4 @@
 👋 Hi, I’m @crinchy
 
 💻 I'm using...
-- HTML \ CSS \ SASS \ Bootstrap \ PHP \ Laravel \ Livewire \ WordPress
+- HTML \ CSS \ JS \ PHP \ SASS \ Bootstrap \ Laravel \ Livewire \ WordPress
