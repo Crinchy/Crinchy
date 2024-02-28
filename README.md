@@ -1,4 +1,4 @@
 - 👋 Hello, I’m Lukas
 - 🗺️ Based in Germany
-- 🖥️ I’m a Fullstack Web Developer & 🎨 Designer
+- 🖥️ I’m a Full-Stack Web Developer & 🎨 Designer
 - 📫 hello@clu.sh
